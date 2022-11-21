@@ -1,0 +1,6 @@
+# ninja log v5
+2	586	1659207544980788177	CMakeFiles/program1.dir/sender.cpp.o	1accbd4583d0a173
+2	414	1659207544808783403	CMakeFiles/program1.dir/threadGuard.cpp.o	cf2399d123c6492c
+2	774	1659207545168793394	CMakeFiles/program1.dir/stringHandler.cpp.o	3f136957d360f9db
+1	741	1659207545136792506	CMakeFiles/program1.dir/main.cpp.o	29181033d20ffb5c
+774	863	1659207545256795836	program1	caa5b75ad908a0b4

@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread   CMakeFiles/program1.dir/main.cpp.o CMakeFiles/program1.dir/threadGuard.cpp.o CMakeFiles/program1.dir/stringHandler.cpp.o CMakeFiles/program1.dir/sender.cpp.o  -o program1 
